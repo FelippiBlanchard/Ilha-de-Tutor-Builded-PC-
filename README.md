@@ -3,3 +3,6 @@ Game developed on unity with the C # language, 2D arts and sounds are third-part
 
 the purpose of the game's development was just to learn how to make the interface, add sounds and switch between scenes.
 
+How to play:
+
+Download the entire folder and execute the "Ilha de Tutor.exe"
